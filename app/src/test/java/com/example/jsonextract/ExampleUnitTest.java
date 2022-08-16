@@ -1,4 +1,4 @@
-package com.example.jsonextract;
+package com.example.mycityweather;
 
 import org.junit.Test;
 
